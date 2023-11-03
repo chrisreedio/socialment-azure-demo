@@ -536,16 +536,16 @@
         },
         {
             "name": "chrisreedio/socialment-bastion-azure",
-            "version": "v3.0.0-beta2",
+            "version": "v3.0.0-beta3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/socialment-bastion-azure.git",
-                "reference": "7d28fa37a0b4ad5efb2a7e9cb35a4beef44f3f29"
+                "reference": "8d262c856eb5aafff22b65b78108fde42ebe4584"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/socialment-bastion-azure/zipball/7d28fa37a0b4ad5efb2a7e9cb35a4beef44f3f29",
-                "reference": "7d28fa37a0b4ad5efb2a7e9cb35a4beef44f3f29",
+                "url": "https://api.github.com/repos/chrisreedio/socialment-bastion-azure/zipball/8d262c856eb5aafff22b65b78108fde42ebe4584",
+                "reference": "8d262c856eb5aafff22b65b78108fde42ebe4584",
                 "shasum": ""
             },
             "require": {
@@ -614,7 +614,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-11-03T03:05:58+00:00"
+            "time": "2023-11-03T03:09:29+00:00"
         },
         {
             "name": "danharrin/date-format-converter",
