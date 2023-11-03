@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2df028d39baca75a092b126eeabf37f1",
+    "content-hash": "d8d20139592aa0d24a38ae78911f8462",
     "packages": [
         {
             "name": "blade-ui-kit/blade-heroicons",
@@ -536,16 +536,16 @@
         },
         {
             "name": "chrisreedio/socialment-bastion-azure",
-            "version": "v3.0.0-beta1",
+            "version": "v3.0.0-beta2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisreedio/socialment-bastion-azure.git",
-                "reference": "55eb358cdeed0015a21b4bfa9e7cf93d55095091"
+                "reference": "7d28fa37a0b4ad5efb2a7e9cb35a4beef44f3f29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisreedio/socialment-bastion-azure/zipball/55eb358cdeed0015a21b4bfa9e7cf93d55095091",
-                "reference": "55eb358cdeed0015a21b4bfa9e7cf93d55095091",
+                "url": "https://api.github.com/repos/chrisreedio/socialment-bastion-azure/zipball/7d28fa37a0b4ad5efb2a7e9cb35a4beef44f3f29",
+                "reference": "7d28fa37a0b4ad5efb2a7e9cb35a4beef44f3f29",
                 "shasum": ""
             },
             "require": {
@@ -614,7 +614,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-11-03T02:21:50+00:00"
+            "time": "2023-11-03T03:05:58+00:00"
         },
         {
             "name": "danharrin/date-format-converter",
@@ -11075,9 +11075,7 @@
     ],
     "aliases": [],
     "minimum-stability": "beta",
-    "stability-flags": {
-        "chrisreedio/socialment-bastion-azure": 10
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
