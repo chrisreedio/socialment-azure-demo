@@ -51,6 +51,12 @@ class AdminPanelProvider extends PanelProvider
                 DisableBladeIconComponents::class,
                 DispatchServingFilamentEvent::class,
             ])
+            ->plugins([
+                \ChrisReedIO\Bastion\BastionPlugin::make()
+                    ->superAdminRole('Developer'),
+                \ChrisReedIO\Socialment\SocialmentPlugin::make()
+                    ->registerProvider('azure', 'fab-microsoft', 'Azure AD'),
+            ])
             ->authMiddleware([
                 Authenticate::class,
             ]);
